@@ -1,0 +1,17 @@
+{
+  "name": "challenge-concepts-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/crisLunardi/challenge-concepts-nodejs.git",
+  "author": "Cristian Lunardi <67519057+crisLunardi@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
